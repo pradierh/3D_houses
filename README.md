@@ -17,8 +17,7 @@
 | <img src="images/corentin.png" alt="drawing" style="width:100px;"/> </br> Corentin Chanet (Lead Programmer)                                    | A growing project during all the course where the team role-plays as a startup facing growing AI problems (consolidation challenges). |
 | <img src="images/hugo.jpeg" alt="drawing" style="width:100px;"/> <br/> Hugo Pradier                                     | Study of real life cases of AI, well known hacks and advice from professionals.                                                       |
 
-|                                                                            |                                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+|                                                                            |                                                                                                                                                                                                                                                 | 
 ## Mission objectives
 
 Consolidate the knowledge in Python, specifically in :
