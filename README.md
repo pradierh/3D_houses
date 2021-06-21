@@ -13,7 +13,7 @@
 | Collaborators                                         | Roles Description                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="images/atefeh.jpeg" alt="drawing" style="width:100px;"/> <br/> Atefeh Hossein| Small daily talks organized by the learners or coaches on theoretical concepts, interesting related tech, cool findings, etc…         |
-| <img src="images/ceren.jpeg" alt="drawing" style="width:100px;"/> <br/> Atefeh Hossein | Interactive session given by the trainees on subject they want to teach their colleagues.                                             |
+| <img src="images/ceren.jpeg" alt="drawing" style="width:100px;"/> <br/> Ceren Mörey | Interactive session given by the trainees on subject they want to teach their colleagues.                                             |
 | <img src="images/corentin.png" alt="drawing" style="width:100px;"/> </br> Corentin Chanet (Lead Programmer)                                    | A growing project during all the course where the team role-plays as a startup facing growing AI problems (consolidation challenges). |
 | <img src="images/hugo.jpeg" alt="drawing" style="width:100px;"/> <br/> Hugo Pradier                                     | Study of real life cases of AI, well known hacks and advice from professionals.                                                       |
 ## Mission objectives
