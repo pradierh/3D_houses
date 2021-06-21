@@ -86,6 +86,6 @@ jupyter notebook
 ## Visuals
 
 ## Timeline
-<img src="images/workflow.png" alt="drawing"/> <br/>
+<img src="images/workflow2.png" alt="drawing"/> <br/>
 
 Project made at Becode Brussels
