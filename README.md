@@ -12,10 +12,10 @@
 
 | Collaborators                                         | Roles Description                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="images/atefeh.jpeg" alt="drawing" style="width:100px;"/> <br/> Atefeh Hossein| Small daily talks organized by the learners or coaches on theoretical concepts, interesting related tech, cool findings, etc…         |
-| <img src="images/ceren.jpeg" alt="drawing" style="width:100px;"/> <br/> Ceren Mörey | Interactive session given by the trainees on subject they want to teach their colleagues.                                             |
-| <img src="images/corentin.png" alt="drawing" style="width:100px;"/> </br> Corentin Chanet (Lead Programmer)                                    | A growing project during all the course where the team role-plays as a startup facing growing AI problems (consolidation challenges). |
-| <img src="images/hugo.jpeg" alt="drawing" style="width:100px;"/> <br/> Hugo Pradier                                     | Study of real life cases of AI, well known hacks and advice from professionals.                                                       |
+| <img src="images/atefeh.jpeg" alt="drawing" style="width:100px;"/> <br/> Atefeh Hossein| - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>        |
+| <img src="images/ceren.jpeg" alt="drawing" style="width:100px;"/> <br/> Ceren Mörey | - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>                                             |
+| <img src="images/corentin.png" alt="drawing" style="width:100px;"/> </br> Corentin Chanet (Project Manager)                                    | - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> |
+| <img src="images/hugo.jpeg" alt="drawing" style="width:100px;"/> <br/> Hugo Pradier                                     | - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>                                                       |
 ## Mission objectives
 
 Consolidate the knowledge in Python, specifically in :
@@ -68,19 +68,26 @@ Which are already computed and available here :
 
 ## Installation
 
+Install all libraries
 ```
-sudo pip install numpy pandas geopandas matplotlib geopy folium fiona shapely rasterio earthpy open3d PyQt5 mayavi jupyterlab rioxarray
+$ sudo pip install numpy pandas geopandas matplotlib geopy folium natsort fiona shapely rasterio earthpy open3d PyQt5 mayavi jupyterlab rioxarray 
 ```
 for jupyterlab, if you are using a Unix derivative (FreeBSD, GNU / Linux, OS X), you can achieve this by using:
 
 ```
-export PATH="$HOME/.local/bin:$PATH"
+$ export PATH="$HOME/.local/bin:$PATH"
+```
+If you are interested in the mayavi jupyter notebook support as well, do the following (after ensuring that you have jupyter installed of course):
+
+```
+$ jupyter nbextension install --py mayavi --user
+$ jupyter nbextension enable --py mayavi --user
 ```
 
 ## Usage
 Navigate to the repo root on your terminal then write this command line:
 ```
-jupyter notebook
+$ jupyter notebook
 ```
 
 ## Visuals
