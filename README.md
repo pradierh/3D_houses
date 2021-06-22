@@ -10,7 +10,7 @@
 
 ## Collaborators and Roles
 
-| Collaborators                                         | Roles Description                                                                                                                           |
+| Collaborators                                         | Role Description                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="images/atefeh.jpeg" alt="drawing" style="width:100px;"/> <br/> Atefeh Hossein| - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>        |
 | <img src="images/ceren.jpeg" alt="drawing" style="width:100px;"/> <br/> Ceren Mörey | - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>                                             |
