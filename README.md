@@ -10,19 +10,20 @@
 
 ## Collaborators and Roles
 
-| Collaborators                                         | Roles Description                                                                                                                           |
+| Collaborators                                         | Role Description                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | <img src="images/atefeh.jpeg" alt="drawing" style="width:100px;"/> <br/> Atefeh Hossein| - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>        |
 | <img src="images/ceren.jpeg" alt="drawing" style="width:100px;"/> <br/> Ceren Mörey | - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>                                             |
-| <img src="images/corentin.png" alt="drawing" style="width:100px;"/> </br> Corentin Chanet (Project Manager)                                    | - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> |
+| <img src="images/corentin.png" alt="drawing" style="width:100px;"/> </br> Corentin Chanet (Project Manager)                                    | - [X] Optimization for handling large geo & raster files <br/> - [X] Coordination and support to team members <br/> - [X] Clipping rasters with polygons <br/> |
 | <img src="images/hugo.jpeg" alt="drawing" style="width:100px;"/> <br/> Hugo Pradier                                     | - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>                                                       |
 ## Mission objectives
 
 Consolidate the knowledge in Python, specifically in :
 
 - [X] NumPy
-- [X] Pandas
-- [X] Matplotlib
+- [X] GeoPandas, shapely (Geo Data)
+- [X] rasterio, rioxarray (Raster Data)
+- [X] mayavi (3D plotting libraries)
 
 ## Learning Objectives
 
