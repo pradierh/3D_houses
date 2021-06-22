@@ -12,10 +12,10 @@
 
 | Collaborators                                         | Role Description                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="images/atefeh.jpeg" alt="drawing" style="width:100px;"/> <br/> Atefeh Hossein| - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>        |
-| <img src="images/ceren.jpeg" alt="drawing" style="width:100px;"/> <br/> Ceren Mörey | - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>                                             |
-| <img src="images/corentin.png" alt="drawing" style="width:100px;"/> </br> Corentin Chanet (Project Manager)                                    | - [X] Optimization for handling large geo & raster files <br/> - [X] Coordination and support to team members <br/> - [X] Clipping rasters with polygons <br/> |
-| <img src="images/hugo.jpeg" alt="drawing" style="width:100px;"/> <br/> Hugo Pradier                                     | - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/> - [X] Understand API and how to find L-72 coordinates from an address <br/>                                                       |
+| <img src="images/atefeh.jpeg" alt="drawing" width="150" height="150"/> <br/> Atefeh Hossein| - made a tamtam on her keyboard <br/> - Understand API and how to find L-72 coordinates from an address <br/> - Understand API and how to find L-72 coordinates from an address <br/>        |
+| <img src="images/ceren.jpeg" alt="drawing" width="150" height="150"/> <br/> Ceren Mörey | - played call of duty in ranked during 1 entire week  <br/> -  Understand API and how to find L-72 coordinates from an address <br/> - asked Hugo to change her name <br/>                                             |
+| <img src="images/corentin.png" alt="drawing"  width="150" height="150"/> </br> Corentin Chanet (Project Manager)                                    | - Optimization for handling large geo & raster files <br/> - Coordination and support to team members <br/> - Clipping rasters with polygons <br/> - Peeled the potatoes <br/>|
+| <img src="images/hugo.jpeg" alt="drawing" width="150" height="150"/> <br/> Hugo Pradier                                     | - bet 50 eu on the match France-Hungary and lost everything <br/> - slept during the end of day review on Tuesday and woke up thanks to maxime <br/> - Ate pastas during 1 week <br/>                                                       |
 ## Mission objectives
 
 Consolidate the knowledge in Python, specifically in :
@@ -49,16 +49,6 @@ Consolidate the knowledge in Python, specifically in :
 
 ### Miscellaneous information
 
-#### What is LIDAR ?
-
-LIDAR is a method to measure distance using light. The device will illuminate a target with a laser light and a sensor will measure the reflection. Differences in wavelength and return times will be used to get 3D representations of an area.
-
-Here is a LIDAR segmentation :
-
-<img src="images/lidar.png" alt="drawing"/> <br/>
-
-With those points clouds we can easily identify houses, vegetation, roads, etc...
-
 The results we're interested in are DSM (Digital Surface Map) and DTM (Digital Terrain Map).
 
 Which are already computed and available here :
@@ -73,7 +63,7 @@ Install all libraries
 ```
 $ sudo pip install numpy pandas geopandas matplotlib geopy folium natsort fiona shapely rasterio earthpy open3d PyQt5 mayavi jupyterlab rioxarray 
 ```
-for jupyterlab, if you are using a Unix derivative (FreeBSD, GNU / Linux, OS X), you can achieve this by using:
+To install jupyterlab, if you are using a Unix derivative (FreeBSD, GNU / Linux, OS X), please use this command line:
 
 ```
 $ export PATH="$HOME/.local/bin:$PATH"
