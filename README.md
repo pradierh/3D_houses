@@ -21,8 +21,9 @@
 Consolidate the knowledge in Python, specifically in :
 
 - [X] NumPy
-- [X] Pandas
-- [X] Matplotlib
+- [X] GeoPandas, shapely (Geo Data)
+- [X] rasterio, rioxarray (Raster Data)
+- [X] mayavi (3D plotting libraries)
 
 ## Learning Objectives
 
