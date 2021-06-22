@@ -8,7 +8,7 @@
   - Jupyter Notebook
 - Team challenge : `Team (3-4)`
 
-## Collaborators and Roles
+## Collaborators and roles
 
 | Collaborators                                         | Role Description                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
