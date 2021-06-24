@@ -90,10 +90,8 @@ $ jupyter notebook
 <img src="images/screenshot2.png" alt="drawing"/><br/><br/>
 <img src="images/screenshot3.png" alt="drawing" alt="drawing" width="60%" height="60%"/><br/>
 </p>
-![](images/giphy.gif)
-![ergegr](https://github.com/pradierh/3D_houses/blob/main/images/giphy.gif)
-![Farmers Market Finder Demo](./images/giphy.gif)
 
+![](images/giphy.gif)
 
 ## Timeline
 <p align="center">
