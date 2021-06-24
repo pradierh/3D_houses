@@ -85,14 +85,18 @@ $ jupyter notebook
 ```
 
 ## Visuals
+
+Visuals exemples of the Sint-Jacob church located in Antwerpen:
+(Lange Nieuwstraat 73, 2000 Antwerpen, Belgique)
+
 <p align="center">
-<img src="images/screenshot1.png" alt="drawing" width="60%" height="60%"/><br/><br/>
-<img src="images/screenshot2.png" alt="drawing"/><br/><br/>
-<img src="images/screenshot3.png" alt="drawing" alt="drawing" width="60%" height="60%"/><br/>
+<img src="images/screenshot2.png" alt="drawing" width="60%" height="60%"/>
+<img src="images/screenshot3.png" alt="drawing" width="60%" height="60%"/>
+<img src="images/screenshot1.png" alt="drawing" width="60%" height="60%"/><br\><br\>
 </p>
 
 <p align="center">
-  <img src="images/giphy.gif" alt="animated" />
+  <img src="images/giphy.gif" alt="animated" width="60%" height="60%" />
 </p>
 
 ## Timeline
