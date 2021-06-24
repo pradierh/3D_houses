@@ -1,7 +1,7 @@
 # 3D House Project
 This repository provides a Jupyter notebook with the goal to let an end user generate a 3D plot of the house or building on a specified address within the entire Belgium. The main dataset being used to do this is publicly available, and originates from a governmental project called DHMV II.
 
-## Rendering informations
+## Project Guidelines
 
 - Repository: `3D_houses`
 - Type of Challenge: `Learning & Consolidation`
@@ -15,9 +15,9 @@ This repository provides a Jupyter notebook with the goal to let an end user gen
 
 | Collaborators                                         | Role Description                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="images/atefeh.jpeg" alt="drawing" width="150" height="150"/> <br/> Atefeh Hossein| - made a tamtam on her keyboard <br/> - Understand API and how to find L-72 coordinates from an address <br/> - Understand API and how to find L-72 coordinates from an address <br/>        |
-| <img src="images/ceren.jpeg" alt="drawing" width="150" height="150"/> <br/> Ceren Mörey | - played call of duty in ranked during 1 entire week  <br/> -  Understand API and how to find L-72 coordinates from an address <br/> - asked Hugo to change her name <br/>                                             |
-| <img src="images/corentin2.png" alt="drawing"  width="150" height="150"/> </br> Corentin Chanet (Project Manager)                                    | - Optimization for handling large geo & raster files <br/> - Coordination and support to team members <br/> - Clipping rasters with polygons <br/>
+| <img src="images/atefeh.jpeg" alt="drawing" width="150" height="150"/> <br/> Atefeh Hossein| - API testing & shapefile processing <br/> - 3D Libraries (Mayavi) <br/> - Research & Documentation <br/>        |
+| <img src="images/ceren.jpeg" alt="drawing" width="150" height="150"/> <br/> Ceren Mörey | -  Raster files processing (rasterio) <br/> - API requests to find L-72 coordinates <br/> - Communication strategy <br/>                                             |
+| <img src="images/corentin2.png" alt="drawing"  width="150" height="150"/> </br> Corentin Chanet (Project Manager)                                    | - Code optimization & GUI <br/> - Coordination and support to team members <br/> - 3D Libraries (plotly) <br/>
 | <img src="images/hugo.jpeg" alt="drawing" width="150" height="150"/> <br/> Hugo Pradier                                     | - 3D rendering <br/> - github / README.md <br/> - Documentation <br/>  - Jupyter Notebook setup <br/>                                                       |
 ## Mission objectives
 
@@ -26,7 +26,7 @@ Consolidate the knowledge in Python, specifically in :
 - [X] NumPy
 - [X] GeoPandas, shapely (Geo Data)
 - [X] rasterio, rioxarray (Raster Data)
-- [X] mayavi (3D plotting libraries)
+- [X] mayavi, plotly (3D plotting libraries)
 
 ## Learning Objectives
 
@@ -64,7 +64,7 @@ Which are already computed and available here :
 
 Install all libraries
 ```
-$ sudo pip install numpy pandas geopandas matplotlib geopy folium natsort fiona shapely rasterio earthpy open3d PyQt5 mayavi jupyterlab rioxarray 
+$ sudo pip install numpy pandas geopandas natsort fiona shapely rasterio open3d PyQt5 mayavi jupyterlab rioxarray plotly 
 ```
 To install jupyterlab, if you are using a Unix derivative (FreeBSD, GNU / Linux, OS X), please use this command line:
 
