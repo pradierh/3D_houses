@@ -16,17 +16,17 @@ This repository provides a Jupyter notebook with the goal to let an end user gen
 |   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="go logo" width="38">](https://jupyter.org/)  | [<img src="https://www.scipy.org/_static/images/numpylogoicon.png" alt="cpp logo" width="24">](https://numpy.org/)  |  [<img src="https://mayavi.readthedocs.io/zh_CN/latest/_static/mayavi-logo.png" alt="c logo" width="24">](https://docs.enthought.com/mayavi/mayavi/) |  [<img src="https://cdn-images-1.medium.com/max/200/1*4s68xZ7SUymwwDBn3V97hQ@2x.png" alt="python logo" width="24">](https://plotly.com/python/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" alt="bash logo" width="24">](https://www.json.org/json-fr.html)  |   [<img src="https://fr.python-requests.org/en/latest/_static/requests-sidebar.png" alt="bash logo" width="24">](https://fr.python-requests.org/en/latest/)  |   [<img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" alt="bash logo" width="24">](https://geopandas.org/)  |   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="bash logo" width="24">](https://geopandas.org/)
 |---|---|---|---|---|---|---|---|---|
 
-- [X]  [Python](https://www.python.org/)
-- [X]  [Jupyter](https://jupyter.org/)
-- [X]  [Numpy](https://numpy.org/)
-- [X]  [Pandas](https://pandas.pydata.org/)
-- [X]  [Mayavi](https://docs.enthought.com/mayavi/mayavi/)
-- [X]  [Json](https://www.json.org/json-en.html)
-- [X]  [Plotly](https://plotly.com/python/)
-- [X]  [Geopandas](https://geopandas.org/)
-- [X]  [Rasterio](https://rasterio.readthedocs.io/en/latest/)
-- [X]  [Rioxarray](https://pypi.org/project/rioxarray/)
-- [X]  [Shapely](https://pypi.org/project/Shapely/)
+- [X]  [Python](https://www.python.org/) : A programming language
+- [X]  [Jupyter](https://jupyter.org/) : An open document format based on JSON
+- [X]  [Numpy](https://numpy.org/) : The fundamental package for scientific computing with Python
+- [X]  [Pandas](https://pandas.pydata.org/) : A fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
+- [X]  [Mayavi](https://docs.enthought.com/mayavi/mayavi/) : 3D scientific data visualization and plotting in Python
+- [X]  [Json](https://www.json.org/json-en.html) : A lightweight data-interchange format
+- [X]  [Plotly](https://plotly.com/python/) : An Open Source Graphing Library for python
+- [X]  [Geopandas](https://geopandas.org/) : An open source project to make working with geospatial data in python easier
+- [X]  [Rasterio](https://rasterio.readthedocs.io/en/latest/) : A tool to Rasterio: access to geospatial raster data
+- [X]  [Rioxarray](https://pypi.org/project/rioxarray/) : rasterio xarray extension
+- [X]  [Shapely](https://pypi.org/project/Shapely/) : Manipulation and analysis of geometric objects in the Cartesian plane
 
 ## Collaborators and roles
 
