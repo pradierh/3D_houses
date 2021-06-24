@@ -85,8 +85,15 @@ $ jupyter notebook
 ```
 
 ## Visuals
+<p align="center">
+<img src="images/screenshot1.png" alt="drawing" width="60%" height="60%"/><br/>
+<img src="images/screenshot2.png" alt="drawing"/><br/>
+<img src="images/screenshot3.png" alt="drawing" alt="drawing" width="60%" height="60%"/>
+</p>
 
 ## Timeline
+<p align="center">
 <img src="images/workflow2.png" alt="drawing"/> <br/>
+</p>
 
 Project made at Becode Brussels
