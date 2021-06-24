@@ -64,7 +64,7 @@ Which are already computed and available here :
 
 Install all libraries
 ```
-$ sudo pip install numpy pandas geopandas natsort fiona shapely rasterio open3d PyQt5 mayavi jupyterlab rioxarray plotly 
+$ sudo pip install numpy pandas geopandas natsort fiona shapely rasterio open3d PyQt5 mayavi jupyterlab rioxarray plotly ipywidgets plotly requests
 ```
 To install jupyterlab, if you are using a Unix derivative (FreeBSD, GNU / Linux, OS X), please use this command line:
 
