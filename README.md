@@ -18,7 +18,7 @@ This repository provides a Jupyter notebook with the goal to let an end user gen
 | <img src="images/atefeh.jpeg" alt="drawing" width="150" height="150"/> <br/> Atefeh Hossein| - made a tamtam on her keyboard <br/> - Understand API and how to find L-72 coordinates from an address <br/> - Understand API and how to find L-72 coordinates from an address <br/>        |
 | <img src="images/ceren.jpeg" alt="drawing" width="150" height="150"/> <br/> Ceren Mörey | - played call of duty in ranked during 1 entire week  <br/> -  Understand API and how to find L-72 coordinates from an address <br/> - asked Hugo to change her name <br/>                                             |
 | <img src="images/corentin2.png" alt="drawing"  width="150" height="150"/> </br> Corentin Chanet (Project Manager)                                    | - Optimization for handling large geo & raster files <br/> - Coordination and support to team members <br/> - Clipping rasters with polygons <br/>
-| <img src="images/hugo.jpeg" alt="drawing" width="150" height="150"/> <br/> Hugo Pradier                                     | - 3D rendering <br/> - github / README.md <br/> - Documentation <br/>                                                       |
+| <img src="images/hugo.jpeg" alt="drawing" width="150" height="150"/> <br/> Hugo Pradier                                     | - 3D rendering <br/> - github / README.md <br/> - Documentation <br/>  - Jupyter Notebook setup <br/>                                                       |
 ## Mission objectives
 
 Consolidate the knowledge in Python, specifically in :
