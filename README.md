@@ -91,7 +91,9 @@ $ jupyter notebook
 <img src="images/screenshot3.png" alt="drawing" alt="drawing" width="60%" height="60%"/><br/>
 </p>
 
-![](images/giphy.gif)
+<p align="center">
+  <img src="images/giphy.gif" alt="animated" />
+</p>
 
 ## Timeline
 <p align="center">
