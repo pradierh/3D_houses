@@ -11,6 +11,11 @@ This repository provides a Jupyter notebook with the goal to let an end user gen
   - Jupyter Notebook
 - Team challenge : `Team (3-4)`
 
+## Technologies / libraries that we used 
+
+| [<img src="https://github.com/noe-gif/noe-gif/blob/main/c.png" alt="v logo" width="24">](https://devdocs.io/c/)  | [<img src="https://github.com/noe-gif/noe-gif/blob/main/html.png" alt="go logo" width="38">](https://devdocs.io/html/)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://devdocs.io/cpp/)  |  [<img src="https://github.com/noe-gif/noe-gif/blob/main/css.png" alt="c logo" width="24">](https://devdocs.io/css/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://github.com/noe-gif/noe-gif/blob/main/php.png" alt="bash logo" width="24">](https://www.php.net/)  |   [<img src="https://github.com/noe-gif/noe-gif/blob/main/react.png" alt="bash logo" width="24">](https://reactjs.org/)  |   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="bash logo" width="24">](https://devdocs.io/javascript/)  |   [<img src="https://github.com/noe-gif/noe-gif/blob/main/sql.png" alt="bash logo" width="24">](https://dev.mysql.com/doc/)
+|---|---|---|---|---|---|---|---|---|
+
 ## Collaborators and roles
 
 | Collaborators                                         | Role Description                                                                                                                           |
