@@ -86,7 +86,7 @@ $ jupyter notebook
 
 ## Visuals
 
-Visuals exemples of the Sint-Jacob church located in Antwerpen:
+Visuals exemples of the Sint-Jacob church located in Antwerpen:<br\>
 (Lange Nieuwstraat 73, 2000 Antwerpen, Belgique)
 
 <p align="center">
