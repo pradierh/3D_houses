@@ -131,6 +131,12 @@ Navigate to the repo root on your terminal then write this command line:
 $ jupyter notebook
 ```
 
+## Project Data travels maps
+
+<p align="center">
+<img src="images/3d_houses_map.png" alt="drawing" width="100%" height="100%"/><br/><br/>
+</p>
+
 ## Visuals
 
 Visuals exemples of the Sint-Jacob church located in Antwerpen:<br/>
