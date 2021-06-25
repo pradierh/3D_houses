@@ -25,7 +25,7 @@ This repository provides a Jupyter notebook with the goal to let an end user gen
 - [X]  [Plotly](https://plotly.com/python/) : An Open Source Graphing Library for python
 - [X]  [Geopandas](https://geopandas.org/) : An open source project to make working with geospatial data in python easier
 - [X]  [Rasterio](https://rasterio.readthedocs.io/en/latest/) : A tool to Rasterio: access to geospatial raster data
-- [X]  [Rioxarray](https://pypi.org/project/rioxarray/) : rasterio xarray extension
+- [X]  [Rioxarray](https://pypi.org/project/rioxarray/) : Rasterio xarray extension
 - [X]  [Shapely](https://pypi.org/project/Shapely/) : Manipulation and analysis of geometric objects in the Cartesian plane
 
 ## Collaborators and roles
