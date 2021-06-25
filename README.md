@@ -32,10 +32,10 @@ This repository provides a Jupyter notebook with the goal to let an end user gen
 
 | Collaborators                                         | Role Description                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="images/atefeh.jpeg" alt="drawing" width="150" height="150"/> <br/> Atefeh Hossein| - API testing & shapefile processing <br/> - 3D Libraries (Mayavi) <br/> - Research & Documentation <br/>        |
-| <img src="images/ceren.jpeg" alt="drawing" width="150" height="150"/> <br/> Ceren Mörey | -  Raster files processing (rasterio) <br/> - API requests to find L-72 coordinates <br/> - Communication strategy <br/>                                             |
-| <img src="images/corentin2.png" alt="drawing"  width="150" height="150"/> </br> Corentin Chanet (Project Manager)                                    | - Code optimization & GUI <br/> - Coordination and support to team members <br/> - 3D Libraries (plotly) <br/>
-| <img src="images/hugo.jpeg" alt="drawing" width="150" height="150"/> <br/> Hugo Pradier                                     | - 3D rendering <br/> - github / README.md <br/> - Documentation <br/>  - Jupyter Notebook setup <br/>                                                       |
+| <img src="images/atefeh.jpeg" alt="drawing" width="150" height="150"/> <br/> [Atefeh Hossein](https://github.com/atefehhosseinniay) <img src="https://cdn.iconscout.com/icon/free/png-256/github-2690381-2232884.png" alt="drawing" width="20" height="20"/> | - API testing & shapefile processing <br/> - 3D Libraries (Mayavi) <br/> - Research & Documentation <br/>        |
+| <img src="images/ceren.jpeg" alt="drawing" width="150" height="150"/> <br/> [Ceren Mörey](https://github.com/c-morey)<img src="https://cdn.iconscout.com/icon/free/png-256/github-2690381-2232884.png" alt="drawing" width="20" height="20"/> | -  Raster files processing (rasterio) <br/> - API requests to find L-72 coordinates <br/> - Communication strategy <br/>                                             |
+| <img src="images/corentin2.png" alt="drawing"  width="150" height="150"/> </br> [Corentin Chanet (Project Manager)](https://github.com/CorentinChanet) <img src="https://cdn.iconscout.com/icon/free/png-256/github-2690381-2232884.png" alt="drawing" width="20" height="20"/>                                    | - Code optimization & GUI <br/> - Coordination and support to team members <br/> - 3D Libraries (plotly) <br/>
+| <img src="images/hugo.jpeg" alt="drawing" width="150" height="150"/> <br/> [Hugo Pradier](https://github.com/pradierh) <img src="https://cdn.iconscout.com/icon/free/png-256/github-2690381-2232884.png" alt="drawing" width="20" height="20"/>                                      | - 3D rendering <br/> - github / README.md <br/> - Documentation <br/>  - Jupyter Notebook setup <br/>                                                       |
 ## Mission Objectives
 
 Consolidate the knowledge in Python, specifically in :
@@ -79,7 +79,37 @@ Which are already computed and available here :
 
 ## Installation
 
-Install all libraries
+### Clone the repository
+
+First, open your terminal then clone the project into your local files
+
+```
+$ sudo git clone git@github.com:pradierh/3D_houses.git
+```
+
+### Download all the required files
+
+Go into the repository and create a "map" directory and then in it, create a DSM and DTM directories
+
+```
+$ cd 3D_houses
+$ mkdir map
+$ cd map
+$ mkdir DSM && mkdir DTM
+```
+
+Into DTM directory please download all the [DTM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dtm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DTM,%20raster,%201m) files
+
+Do the same with the DSM directory and download all the [DSM](http://www.geopunt.be/download?container=dhm-vlaanderen-ii-dsm-raster-1m&title=Digitaal%20Hoogtemodel%20Vlaanderen%20II,%20DSM,%20raster,%201m) files
+
+### Unzip
+
+Unzip all the files in both directories
+```
+$ unzip \*.zip
+```
+
+### Install all libraries
 ```
 $ sudo pip install numpy pandas geopandas natsort fiona shapely rasterio open3d PyQt5 mayavi jupyterlab rioxarray plotly ipywidgets plotly requests
 ```
