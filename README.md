@@ -11,7 +11,7 @@ This repository provides a Jupyter notebook with the goal to let an end user gen
   - Jupyter Notebook
 - Team challenge : `Team (3-4)`
 
-## Technologies / libraries that we used
+## Technologies / Libraries 
 
 |   [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="24">](https://www.python.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="go logo" width="38">](https://jupyter.org/)  | [<img src="https://www.scipy.org/_static/images/numpylogoicon.png" alt="cpp logo" width="24">](https://numpy.org/)  |  [<img src="https://mayavi.readthedocs.io/zh_CN/latest/_static/mayavi-logo.png" alt="c logo" width="24">](https://docs.enthought.com/mayavi/mayavi/) |  [<img src="https://cdn-images-1.medium.com/max/200/1*4s68xZ7SUymwwDBn3V97hQ@2x.png" alt="python logo" width="24">](https://plotly.com/python/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" alt="bash logo" width="24">](https://www.json.org/json-fr.html)  |   [<img src="https://fr.python-requests.org/en/latest/_static/requests-sidebar.png" alt="bash logo" width="24">](https://fr.python-requests.org/en/latest/)  |   [<img src="https://geopandas.readthedocs.io/en/latest/_images/geopandas_icon.png" alt="bash logo" width="24">](https://geopandas.org/)  |   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="bash logo" width="24">](https://geopandas.org/)
 |---|---|---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@ This repository provides a Jupyter notebook with the goal to let an end user gen
 - [X]  [Rioxarray](https://pypi.org/project/rioxarray/) : Rasterio xarray extension
 - [X]  [Shapely](https://pypi.org/project/Shapely/) : Manipulation and analysis of geometric objects in the Cartesian plane
 
-## Collaborators and roles
+## Collaborators and Roles
 
 | Collaborators                                         | Role Description                                                                                                                           |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -36,7 +36,7 @@ This repository provides a Jupyter notebook with the goal to let an end user gen
 | <img src="images/ceren.jpeg" alt="drawing" width="150" height="150"/> <br/> Ceren Mörey | -  Raster files processing (rasterio) <br/> - API requests to find L-72 coordinates <br/> - Communication strategy <br/>                                             |
 | <img src="images/corentin2.png" alt="drawing"  width="150" height="150"/> </br> Corentin Chanet (Project Manager)                                    | - Code optimization & GUI <br/> - Coordination and support to team members <br/> - 3D Libraries (plotly) <br/>
 | <img src="images/hugo.jpeg" alt="drawing" width="150" height="150"/> <br/> Hugo Pradier                                     | - 3D rendering <br/> - github / README.md <br/> - Documentation <br/>  - Jupyter Notebook setup <br/>                                                       |
-## Mission objectives
+## Mission Objectives
 
 Consolidate the knowledge in Python, specifically in :
 
@@ -121,4 +121,4 @@ Visuals exemples of the Sint-Jacob church located in Antwerpen:<br/>
 <img src="images/workflow2.png" alt="drawing"/> <br/>
 </p>
 
-Project made at Becode Brussels
+#### Project made at Becode Brussels
