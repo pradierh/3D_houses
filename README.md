@@ -121,4 +121,4 @@ Visuals exemples of the Sint-Jacob church located in Antwerpen:<br/>
 <img src="images/workflow2.png" alt="drawing"/> <br/>
 </p>
 
-#### Project made at Becode Brussels
+#### Project made at BeCode Brussels
