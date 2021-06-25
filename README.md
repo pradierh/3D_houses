@@ -131,7 +131,7 @@ Navigate to the repo root on your terminal then write this command line:
 $ jupyter notebook
 ```
 
-## Project Data travels maps
+## 3d_homes program data roadmap
 
 <p align="center">
 <img src="images/3d_houses_map.png" alt="drawing" width="100%" height="100%"/><br/><br/>
